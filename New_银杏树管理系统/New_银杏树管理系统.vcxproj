@@ -136,7 +136,7 @@
     <ClCompile Include="menutree.c" />
     <ClCompile Include="string.c" />
     <ClCompile Include="tree.c" />
-    <ClCompile Include="Ginkgo_Management_System.c">
+    <ClCompile Include="GinkgoManagementSystem.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemGroup>
