@@ -1,0 +1,41 @@
+﻿  ginkgo.c
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\common.h(5,1): warning C4005: “NULL”: 宏重定义
+  (编译源文件“ginkgo.c”)
+  D:\应用\VS2022\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(235,1):
+  参见“NULL”的前一个定义
+  
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\ginkgo.c(25,9): warning C4013: “gets”未定义；假设外部返回 int
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\ginkgo.c(103,11): warning C4133: “函数”: 从“FILE *”到“const char *const ”的类型不兼容
+  menumain.c
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\common.h(5,1): warning C4005: “NULL”: 宏重定义
+  (编译源文件“menumain.c”)
+  D:\应用\VS2022\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(235,1):
+  参见“NULL”的前一个定义
+  
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(34,32): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(35,32): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(36,32): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(37,32): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(38,32): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(39,32): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(45,13): warning C4013: “gets”未定义；假设外部返回 int
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(51,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(54,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(57,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(60,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(63,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(67,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(71,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(74,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(77,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(78,13): warning C4013: “chectAreasNum”未定义；假设外部返回 int
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\menumain.c(81,37): warning C4133: “函数”: 从“char *”到“String *”的类型不兼容
+  正在生成代码...
+  Ginkgo_Management_System.c
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\common.h(5,1): warning C4005: “NULL”: 宏重定义
+  (编译源文件“Ginkgo_Management_System.c”)
+  D:\应用\VS2022\VC\Tools\MSVC\14.38.33130\include\vcruntime.h(235,1):
+  参见“NULL”的前一个定义
+  
+D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\Ginkgo_Management_System.c(44,9): warning C4013: “gets”未定义；假设外部返回 int
+  New_银杏树管理系统.vcxproj -> D:\桌面\学习\C语言\VS\New_银杏树管理系统\New_银杏树管理系统\x64\Debug\New_银杏树管理系统.exe
